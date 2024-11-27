@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/itsejmendoza/HoopReserve/blob/main/images/HoopReserve.png" alt="HoopReserve Logo" width="290" height="260">
+  <img src="https://github.com/itsejmendoza/HoopReserve-Basketball-Court-Reservation-Management-System/blob/main/IMAGE/HoopReserve.png" alt="HoopReserve Logo" width="290" height="260">
 
 # HoopReserve-Basketball-Court-Reservation-Management-System
 A community basketball court reservation system. Made to play, built to be fair..
