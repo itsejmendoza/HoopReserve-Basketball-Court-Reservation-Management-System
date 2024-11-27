@@ -51,6 +51,43 @@ In developing **HoopReserve**, core Object-Oriented Programming (OOP) principles
  <hr class="w-48 h-1 mx-auto my-4 bg-gray-100 border-0 rounded md:my-10 dark:bg-gray-700">
 </div>
 
+### Integration with SDG 
+<div align="center">
+  <img src="https://github.com/itsejmendoza/HoopReserve-Basketball-Court-Reservation-Management-System/blob/main/IMAGE/SDG%20Goal%2011.png" alt="SDG Goal 11" width="900">
+</div>
 
+**Sustainable Development Goal (SDG) 11: Sustainable Cities and Communities :**
+  HoopReserve aligns perfectly with Sustainable Development Goal (SDG) 11: Sustainable Cities and Communities. By offering a fair and respectful system for reserving basketball courts, it promotes inclusivity, prevents conflicts, and ensures everyone has equal access to community spaces. Beyond fairness, structured bookings allow for better maintenance planning, keeping courts clean, safe, and enjoyable for all. This isn’t just about convenience—it’s about fostering respect, connection, and sustainability in urban communities. HoopReserve helps create vibrant, well-managed spaces where everyone can come together and play.
 
+ <hr class="w-48 h-1 mx-auto my-4 bg-gray-100 border-0 rounded md:my-10 dark:bg-gray-700">
+</div>
+
+### Instructions for Running the HoopReserve Basketball Court Reservation System
+
+Once the program is running, you'll interact with it through the console. Here is the typical flow of interaction:
+
+**Register User:**
+  -  When you choose option 1, you'll be prompted to enter your full name, contact number, and address. This information will be stored in the User class.
+
+**Create Reservation:**
+ -	Option 2 allows you to create a reservation by entering a date and time for the reservation. This information is stored in the Reservation class, associated with the registered user.
+
+**Update Reservation:**
+ -	Option 3 lets you update an existing reservation. You can modify the date, start time, and end time. If you leave any of these fields empty, the program will keep the existing values.
+
+**Cancel Reservation:**
+ -	Choosing option 4 allows you to cancel an existing reservation. You'll be asked for confirmation before proceeding with the cancellation.
+
+**Print Receipt:**
+ -	With option 5, you can print a formatted receipt that includes the reservation details such as the user's name, contact number, reservation date, and time.
+
+**Exit:**
+ -	Option 6 allows you to exit the program.
+
+<hr class="w-48 h-1 mx-auto my-4 bg-gray-100 border-0 rounded md:my-10 dark:bg-gray-700">
+</div>
+
+### Gratitude Statement 🫡
+
+`I want to thank God for the guidance, my family for their love, my friends for their support, and Professor Mr. Jayson Abratique for her guidance and wisdom. Thank you all for being part of this project journey.`
 
