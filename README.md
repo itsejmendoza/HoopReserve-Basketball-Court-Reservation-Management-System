@@ -114,10 +114,14 @@ Once the program is running, you'll interact with it through the console. Here i
 
 **Exit:**
  -	Option 6 allows you to exit the program.
+ -	A farewell message will appear, and the program will terminate.
 
 <div align="right side">
   <img src="https://github.com/itsejmendoza/HoopReserve-Basketball-Court-Reservation-Management-System/blob/main/IMAGE/Exiting%20the%20Program.png" alt="Register a User" width="400" height="120">
 </div>
+
+
+-  These steps provide an easy-to-follow guide for managing your basketball court reservations using the HoopReserve system.
 
 
 <hr class="w-48 h-1 mx-auto my-4 bg-gray-100 border-0 rounded md:my-10 dark:bg-gray-700">
