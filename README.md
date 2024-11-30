@@ -86,7 +86,7 @@ Once the program is running, you'll interact with it through the console. Here i
  -	Option 2 allows you to create a reservation by entering a date and time for the reservation. This information is stored in the Reservation class, associated with the registered user.
 
  <div align="right side">
-  <img src="https://github.com/itsejmendoza/HoopReserve-Basketball-Court-Reservation-Management-System/blob/main/IMAGE/Creating%20a%20Reservation.png" alt="Register a User" width="500" height="210">
+  <img src="https://github.com/itsejmendoza/HoopReserve-Basketball-Court-Reservation-Management-System/blob/main/IMAGE/Creating%20a%20Reservation.png" alt="Register a User" width="500" height="200">
 </div>
     
 
@@ -101,7 +101,7 @@ Once the program is running, you'll interact with it through the console. Here i
  -	Choosing option 4 allows you to cancel an existing reservation. You'll be asked for confirmation before proceeding with the cancellation.
 
 <div align="right side">
-  <img src="https://github.com/itsejmendoza/HoopReserve-Basketball-Court-Reservation-Management-System/blob/main/IMAGE/Canceling%20a%20Reservation.png" alt="Register a User" width="500" height="200">
+  <img src="https://github.com/itsejmendoza/HoopReserve-Basketball-Court-Reservation-Management-System/blob/main/IMAGE/Canceling%20a%20Reservation.png" alt="Register a User" width="500" height="180">
 </div>
 
 **Print Receipt:**
@@ -115,7 +115,7 @@ Once the program is running, you'll interact with it through the console. Here i
  -	Option 6 allows you to exit the program.
 
 <div align="right side">
-  <img src="https://github.com/itsejmendoza/HoopReserve-Basketball-Court-Reservation-Management-System/blob/main/IMAGE/Exiting%20the%20Program.png" alt="Register a User" width="370" height="200">
+  <img src="https://github.com/itsejmendoza/HoopReserve-Basketball-Court-Reservation-Management-System/blob/main/IMAGE/Exiting%20the%20Program.png" alt="Register a User" width="400" height="120">
 </div>
 
 
