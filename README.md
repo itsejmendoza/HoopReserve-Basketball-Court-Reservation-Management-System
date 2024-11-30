@@ -65,24 +65,59 @@ In developing **HoopReserve**, core Object-Oriented Programming (OOP) principles
 ### Instructions for Running the HoopReserve Basketball Court Reservation System
 
 Once the program is running, you'll interact with it through the console. Here is the typical flow of interaction:
+ **Starting the Program** 
+   -	Run the program in a java environment.
+   -	Upon starting, you will see a welcome message and a main menu with the following options:
+   -	Enter the number corresponding to the action you want to perform.
+     
+ <div align="right side">
+  <img src="https://github.com/itsejmendoza/HoopReserve-Basketball-Court-Reservation-Management-System/blob/main/IMAGE/Starting%20the%20Program.png" alt="Register a User" width="370" height="200">
+</div>
 
 **Register User:**
   -  When you choose option 1, you'll be prompted to enter your full name, contact number, and address. This information will be stored in the User class.
 
+ <div align="right side">
+  <img src="https://github.com/itsejmendoza/HoopReserve-Basketball-Court-Reservation-Management-System/blob/main/IMAGE/Register%20a%20User.png" alt="Register a User" width="370" height="200">
+</div>
+    
+
 **Create Reservation:**
  -	Option 2 allows you to create a reservation by entering a date and time for the reservation. This information is stored in the Reservation class, associated with the registered user.
+
+ <div align="right side">
+  <img src="https://github.com/itsejmendoza/HoopReserve-Basketball-Court-Reservation-Management-System/blob/main/IMAGE/Creating%20a%20Reservation.png" alt="Register a User" width="370" height="200">
+</div>
+    
 
 **Update Reservation:**
  -	Option 3 lets you update an existing reservation. You can modify the date, start time, and end time. If you leave any of these fields empty, the program will keep the existing values.
 
+ <div align="right side">
+  <img src="https://github.com/itsejmendoza/HoopReserve-Basketball-Court-Reservation-Management-System/blob/main/IMAGE/Updating%20a%20Reservation.png" alt="Register a User" width="370" height="200">
+</div>
+
 **Cancel Reservation:**
  -	Choosing option 4 allows you to cancel an existing reservation. You'll be asked for confirmation before proceeding with the cancellation.
+
+<div align="right side">
+  <img src="https://github.com/itsejmendoza/HoopReserve-Basketball-Court-Reservation-Management-System/blob/main/IMAGE/Canceling%20a%20Reservation.png" alt="Register a User" width="370" height="200">
+</div>
 
 **Print Receipt:**
  -	With option 5, you can print a formatted receipt that includes the reservation details such as the user's name, contact number, reservation date, and time.
 
+<div align="right side">
+  <img src="https://github.com/itsejmendoza/HoopReserve-Basketball-Court-Reservation-Management-System/blob/main/IMAGE/Print%20a%20Receipt.png" alt="Register a User" width="370" height="200">
+</div>
+
 **Exit:**
  -	Option 6 allows you to exit the program.
+
+<div align="right side">
+  <img src="" alt="Register a User" width="370" height="200">
+</div>
+
 
 <hr class="w-48 h-1 mx-auto my-4 bg-gray-100 border-0 rounded md:my-10 dark:bg-gray-700">
 </div>
