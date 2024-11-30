@@ -86,7 +86,7 @@ Once the program is running, you'll interact with it through the console. Here i
  -	Option 2 allows you to create a reservation by entering a date and time for the reservation. This information is stored in the Reservation class, associated with the registered user.
 
  <div align="right side">
-  <img src="https://github.com/itsejmendoza/HoopReserve-Basketball-Court-Reservation-Management-System/blob/main/IMAGE/Creating%20a%20Reservation.png" alt="Register a User" width="370" height="200">
+  <img src="https://github.com/itsejmendoza/HoopReserve-Basketball-Court-Reservation-Management-System/blob/main/IMAGE/Creating%20a%20Reservation.png" alt="Register a User" width="370" height="170">
 </div>
     
 
@@ -115,7 +115,7 @@ Once the program is running, you'll interact with it through the console. Here i
  -	Option 6 allows you to exit the program.
 
 <div align="right side">
-  <img src="" alt="Register a User" width="370" height="200">
+  <img src="https://github.com/itsejmendoza/HoopReserve-Basketball-Court-Reservation-Management-System/blob/main/IMAGE/Exiting%20the%20Program.png" alt="Register a User" width="370" height="200">
 </div>
 
 
