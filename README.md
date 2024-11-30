@@ -65,7 +65,8 @@ In developing **HoopReserve**, core Object-Oriented Programming (OOP) principles
 ### Instructions for Running the HoopReserve Basketball Court Reservation System
 
 Once the program is running, you'll interact with it through the console. Here is the typical flow of interaction:
- **Starting the Program** 
+
+**Starting the Program:** 
    -	Run the program in a java environment.
    -	Upon starting, you will see a welcome message and a main menu with the following options:
    -	Enter the number corresponding to the action you want to perform.
