@@ -87,6 +87,7 @@ Once the program is running, you'll interact with it through the console. Here i
 
 **Create Reservation:**
  -	Option 2 allows you to create a reservation by entering a date and time for the reservation. This information is stored in the Reservation class, associated with the registered user.
+ -	If the reservation date is already reserved by someone. It will notify you that the requested time is already reserved. Therefore, you will input another date.
 
  <div align="right side">
   <img src="https://github.com/itsejmendoza/HoopReserve-Basketball-Court-Reservation-Management-System/blob/main/IMAGE/Creating%20a%20Reservation.png" alt="Register a User" width="500" height="200">
